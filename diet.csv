@@ -1,32 +1,32 @@
-#diet: 0=herbivore, 1=carnivore, 2=omnivore
+#식습관: 0=초식, 1=육식, 2=잡식
 Name,Diet
-Badger,1
-Bear,2
-Cougar,1
-Cow,0
-Deer,0
-Dog,1
-Elk,0
-Fox,1
-Fur seal,1
-Grey seal,1
-Guinea pig0
-Human,2
-Jaguar,1
-Kangaroo,0
-Lion,1
-Mink,1
-Mole,1
-Moose,0
-Mouse,2
-Pig,2
-Porcupine,0
-Rabbit,0
-Raccoon,2
-Rat,2
-Red bat,1
-Sea lion,1
-Skunk,2
-Squirrel,2
-Wolf,1
-Woodchuck,2
+오소리,1
+곰,2
+퓨마,1
+소,0
+사슴,0
+개,1
+엘크,0
+여우,1
+물개,1
+회색물범,1
+기니피그,0
+사람,2
+재규어,1
+캥거루,0
+사자,1
+밍크,1
+두더지,1
+무스,0
+생쥐,2
+돼지,2
+호저,0
+토끼,0
+너구리,2
+쥐,2
+붉은나무박쥐,1
+바다사자,1
+스컹크,2
+다람쥐,2
+늑대,1
+그라운드호그,2
