@@ -1,2 +1,7 @@
-# python4daml
-Python for Data Analysis and Machine Learning
+# 코딩 뇌를 깨우는 파이썬
+
+<img src="https://tensorflowkorea.files.wordpress.com/2023/08/8655ff6c434021a80a7ef17d422c2ebc.jpg" height="500">
+
+이 저장소는 <코딩 뇌를 깨우는 파이썬>(한빛미디어, 2023)의 코드를 담고 있습니다.
+
+각 장의 코드는 독립된 하나의 노트북으로 제공됩니다. 모든 노트북은 구글 코랩을 사용해 실행해 볼 수 있습니다. 노트북을 클릭하면 구글 코랩으로 열 수 있는 링크를 볼 수 있습니다.
